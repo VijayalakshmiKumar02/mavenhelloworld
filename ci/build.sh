@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-
-set -e -x -u
 chmod 777
+set -e -x -u
+
 
 git clone mavenhelloworld resource-app
 echo "creating file"
