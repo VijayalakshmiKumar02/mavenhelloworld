@@ -23,4 +23,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+###.gitattributes ###
 *.sh    filter=permissions
