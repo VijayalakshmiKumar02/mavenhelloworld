@@ -1,0 +1,2 @@
+[filter "permissions"]
+        clean = chmod 755 %f
