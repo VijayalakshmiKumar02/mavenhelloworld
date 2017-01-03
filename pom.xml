@@ -33,7 +33,7 @@
                 <goal>exec</goal>
               </goals>
               <configuration>
-                <executable>${mavenhelloworld/ci/build.sh}</executable>
+                <executable>${mavenhelloworld/ci}/build.sh</executable>
               </configuration>
             </execution>
           </executions>
